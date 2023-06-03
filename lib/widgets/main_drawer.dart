@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:food_recipe/main.dart';
 
 class MainDrawer extends StatelessWidget{
   const MainDrawer({super.key,
